@@ -1,0 +1,7 @@
+streamlit
+requests
+feedparser
+langchain
+groq
+python-dotenv
+rouge-score
