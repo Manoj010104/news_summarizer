@@ -6,3 +6,4 @@ groq
 python-dotenv
 rouge-score
 langchain_groq
+beautifulsoup4
